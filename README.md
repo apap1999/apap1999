@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @apap1999
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently improving Java 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on programming projects.
 - 📫 You can reach me here : andreaspapadias@gmail.com
 
 <!---
